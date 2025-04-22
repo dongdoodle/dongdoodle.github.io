@@ -62,22 +62,9 @@ Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, 
 </div>
 </div>
 
-- [DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887), Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu, **arXiv 2024**
+- [DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887), Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu
 
 # 🎨 Art Works
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ars 2024</div><img src='images/ars24.jpg' alt="ars2024" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Negative Shanshui](https://ars.electronica.art/hope/en/negative-shanshui/)
-
-Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
-
-- An interactive art experience merging ecological concerns with Eastern aesthetics
-- Through AI imaginary synthesis, the participant distorts the idealized landscape (Shanshui), gradually revealing a wasteland
-- Exhibition at Ars Electronica Festival 2024, Linz, Austria
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,9 +76,20 @@ Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ars 2024</div><img src='images/ars24.jpg' alt="ars2024" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Negative Shanshui](https://ars.electronica.art/hope/en/negative-shanshui/)
+
+Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
+- Exhibition at Ars Electronica Festival 2024, Linz, Austria
+</div>
+</div>
+
+
 - *2023.09* Curatorial Assistant at Ars Electronica Festival 2023, focusing on XR projects exhibition, Linz, Austria
 
-# �� Educations
+# 📖 Educations
 - *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by Prof. Jingyi Yu
 - *2021.09 – 2025.07 (now)*, Bachelor of Science in Computer Science with a minor in Interaction Design at ShanghaiTech University
 
