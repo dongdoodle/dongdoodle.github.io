@@ -1,0 +1,21 @@
+paper with image: badge:art paper  img src= images\art_paper.png
+titile The Ephemeral Shadow: Hyperreal Beings in Stimulative Performance
+Dong Zhang, Yanjun Zhou, Jingyi Yu 
+https://arxiv.org/abs/2504.14536
+
+paper with image: badge:Robotics  img src= images\exface.jpg
+ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training
+Dong Zhang, Jingwei Peng, Yuyang Jiao, Jiayuan Gu, Jingyi Yu, Jiahao Chen
+https://arxiv.org/abs/2504.14477
+
+
+
+paper with image: badge: acm mm 2024  img src= images\mm.png
+Sophia-in-Audition: Virtual Production with a Robot Performer
+Taotao Zhou, Teng Xu, Dong Zhang, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, Jingyi Yu
+https://dl.acm.org/doi/pdf/10.1145/3664647.3685509
+
+paper
+DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing
+Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, Dong Zhang, Yiwen Wu, Jingyi Yu
+https://arxiv.org/pdf/2503.00887

@@ -17,43 +17,83 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate at ShanghaiTech University, majoring in Computer Science with a minor in Interaction Design, and will continue there as a Master’s student. My work blends AI, computer vision, and interactive systems to create innovative, user-centered solutions. I am passionate about the intersection of technology and art, aiming to enhance human experiences through creative technologies.
+I am a senior undergraduate at ShanghaiTech University, majoring in Computer Science with a minor in Interaction Design, and will continue there as a Master's student. My work blends AI, computer vision, and interactive systems to create innovative, user-centered solutions. I am passionate about the intersection of technology and art, aiming to enhance human experiences through creative technologies.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2025.09*: Exhibited as an artist in Ars Electronica 2024 in Linz, Austria, with the theme “HOPE—who will turn the tide?”
+- *2025.09*: Exhibited as an artist in Ars Electronica 2024 in Linz, Austria, with the theme "HOPE—who will turn the tide?"
 - *2024.10*: The paper Sophia in Audition was accepted by the ACM Multimedia Conference (ACM MM).
-- *2024.09*: Participated as an artist in Ars Electronica 2023 in Linz, Austria, with the theme “Who Owns the Truth?”
+- *2024.09*: Participated as an artist in Ars Electronica 2023 in Linz, Austria, with the theme "Who Owns the Truth?"
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The Ephemeral Shadow: Hyperreal Beings in Stimulative Performance](https://arxiv.org/abs/2504.14536)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Dong Zhang**, Yanjun Zhou, Jingyi Yu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/abs/2504.14536)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training](https://arxiv.org/abs/2504.14477)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Dong Zhang**, Jingwei Peng, Yuyang Jiao, Jiayuan Gu, Jingyi Yu, Jiahao Chen
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[**Paper**](https://arxiv.org/abs/2504.14477)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm.png' alt="mm" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sophia-in-Audition: Virtual Production with a Robot Performer](https://dl.acm.org/doi/pdf/10.1145/3664647.3685509)
+
+Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, Jingyi Yu
+
+[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3664647.3685509)
+</div>
+</div>
+
+- [DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887), Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu, **arXiv 2024**
+
+# 🎨 Art Works
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ars 2024</div><img src='images/ars24.jpg' alt="ars2024" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Negative Shanshui](https://ars.electronica.art/hope/en/negative-shanshui/)
+
+Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
+
+- An interactive art experience merging ecological concerns with Eastern aesthetics
+- Through AI imaginary synthesis, the participant distorts the idealized landscape (Shanshui), gradually revealing a wasteland
+- Exhibition at Ars Electronica Festival 2024, Linz, Austria
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Ephemeral Shadow: Hyperreal Beings in Stimulative Performance](https://arxiv.org/abs/2504.14536)
+
+**Dong Zhang**, Yanjun Zhou, Jingyi Yu
+
+[**Paper**](https://arxiv.org/abs/2504.14536)
+</div>
+</div>
+
+- *2023.09* Curatorial Assistant at Ars Electronica Festival 2023, focusing on XR projects exhibition, Linz, Austria
+
+# �� Educations
+- *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by Prof. Jingyi Yu
+- *2021.09 – 2025.07 (now)*, Bachelor of Science in Computer Science with a minor in Interaction Design at ShanghaiTech University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2025.05 (now)*, Researcher & Product Manager, LumiAni Technology Co., Ltd, China.
