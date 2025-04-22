@@ -22,12 +22,12 @@ I am a senior undergraduate at ShanghaiTech University, majoring in Computer Sci
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+# 🔥 News {#news}
 - *2025.09*: Exhibited as an artist in Ars Electronica 2024 in Linz, Austria, with the theme "HOPE—who will turn the tide?"
 - *2024.10*: The paper Sophia in Audition was accepted by the ACM Multimedia Conference (ACM MM).
 - *2024.09*: Participated as an artist in Ars Electronica 2023 in Linz, Austria, with the theme "Who Owns the Truth?"
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, 
 
 - [DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887), Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu
 
-# 🎨 Art Works
+# 🎨 Art Works {#art-works}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,9 +89,9 @@ Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
 
 - *2023.09* Curatorial Assistant at Ars Electronica Festival 2023, focusing on XR projects exhibition, Linz, Austria
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by Prof. Jingyi Yu
 - *2021.09 – 2025.07 (now)*, Bachelor of Science in Computer Science with a minor in Interaction Design at ShanghaiTech University
 
-# 💻 Internships
+# 💻 Internships {#internships}
 - *2022.09 - 2025.05 (now)*, Researcher & Product Manager, LumiAni Technology Co., Ltd, China.
