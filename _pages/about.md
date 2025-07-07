@@ -40,7 +40,7 @@ I am a senior undergraduate at ShanghaiTech University, majoring in Computer Sci
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training](https://arxiv.org/abs/2504.14477)
