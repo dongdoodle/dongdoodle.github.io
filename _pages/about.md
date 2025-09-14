@@ -29,17 +29,6 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 
 # 📝 Publications {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The Ephemeral Shadow: Hyperreal Beings in Stimulative Performance](https://arxiv.org/abs/2504.14536)
-
-**Dong Zhang**, Yanjun Zhou, Jingyi Yu
-
-[**Paper**](https://arxiv.org/abs/2504.14536)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
