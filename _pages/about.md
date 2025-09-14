@@ -40,6 +40,17 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Best in Show Award, Emerging Technology</div><img src='images/dreamprinting.png' alt="dreamprinting" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887)
+
+Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu
+
+[**Paper**](https://arxiv.org/pdf/2503.00887)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm.png' alt="mm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,16 +62,6 @@ Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Best in Show Award, Emerging Technology</div><img src='images/dreamprinting.png' alt="dreamprinting" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887)
-
-Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu
-
-[**Paper**](https://arxiv.org/pdf/2503.00887)
-</div>
-</div>
 
 # 🎨 Art Works {#art-works}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
