@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate at ShanghaiTech University, majoring in Computer Science with a minor in Interaction Design, and will continue there as a Master's student. My work blends AI, computer vision, and interactive systems to create innovative, user-centered solutions. I am passionate about the intersection of technology and art, aiming to enhance human experiences through creative technologies.
+I am a senior undergraduate at ShanghaiTech University, majoring in Computer Science with a minor in Interaction Design, and will continue there as a Master's student under the supervision of [Prof. Jingyi Yu](https://www.yu-jingyi.com/). My work blends AI, computer vision, and interactive systems to create innovative, user-centered solutions. I am passionate about the intersection of technology and art, aiming to enhance human experiences through creative technologies.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -99,8 +99,8 @@ Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
 - *2023.09* Curatorial Assistant at Ars Electronica Festival 2023, focusing on XR projects exhibition, Linz, Austria
 
 # 📖 Educations {#educations}
-- *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by Prof. Jingyi Yu
+- *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by [Prof. Jingyi Yu](https://www.yu-jingyi.com/)
 - *2021.09 – 2025.07 (now)*, Bachelor of Science in Computer Science with a minor in Interaction Design at ShanghaiTech University
 
 # 💻 Internships {#internships}
-- *2022.09 - 2025.05 (now)*, Researcher & Product Manager, LumiAni Technology Co., Ltd, China.
+- *2022.09 - now*, Researcher & Product Manager, LumiAni Technology Co., Ltd, China.
