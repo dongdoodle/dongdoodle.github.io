@@ -36,7 +36,7 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 
 **Dong Zhang**, Jingwei Peng, Yuyang Jiao, Jiayuan Gu, Jingyi Yu, Jiahao Chen
 
-[**Paper**](https://arxiv.org/abs/2504.14477)
+[**Paper**](10.1109/IROS60139.2025.11245965)
 </div>
 </div>
 
