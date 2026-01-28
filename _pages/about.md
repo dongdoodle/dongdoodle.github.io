@@ -23,9 +23,11 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 
 
 # 🔥 News {#news}
-- *2025.09*: Exhibited as an artist in Ars Electronica 2024 in Linz, Austria, with the theme "HOPE—who will turn the tide?"
-- *2024.10*: The paper Sophia in Audition was accepted by the ACM Multimedia Conference (ACM MM).
-- *2024.09*: Participated as an artist in Ars Electronica 2023 in Linz, Austria, with the theme "Who Owns the Truth?"
+- *2025.12*: “Feltsight” — to be presented at ACM SIGGRAPH Asia 2025 (Hong Kong, Dec 15–18).
+- *2025.10*: “ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training” — published in IROS 2025 (Oct 19–25).
+- *2024.09*: “Negative Shanshui” — exhibited at Ars Electronica Festival 2024 (Linz, Austria; theme: “HOPE—who will turn the tide?”).
+- *2024.10*: “Sophia-in-Audition: Virtual Production with a Robot Performer” — accepted to ACM MM 2024.
+- *2023.09*: Ars Electronica Festival 2023 (Linz, Austria; theme: “Who Owns the Truth?”).
 
 # 📝 Publications {#publications}
 
