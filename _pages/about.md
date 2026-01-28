@@ -71,7 +71,9 @@ Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, 
 
 [Feltsight](https://dl.acm.org/doi/10.1145/3757369.3767605)
 
-[**ACM**](https://dl.acm.org/doi/10.1145/3757369.3767605)
+**Authors:** Danlin Huang, Botao Amber Hu, **Dong Zhang**, Yifei Liu, Takatoshi Yoshida, Rem RunGu Lin
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3757369.3767605)
 </div>
 </div>
 
