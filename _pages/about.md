@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at ShanghaiTech University, majoring in Computer Science, supervised by [Prof. Jingyi Yu](https://www.yu-jingyi.com/). I completed my Bachelor's degree in Computer Science with a minor in Interaction Design at the same university. My work blends AI, computer vision, and interactive systems to create innovative, user-centered solutions. I am passionate about the intersection of technology and art, aiming to enhance human experiences through creative technologies.
+I am a Master's student at ShanghaiTech University, majoring in Computer Science, supervised by [Prof. Jingyi Yu](https://www.yu-jingyi.com/). I completed my Bachelor's degree in Computer Science with a minor in Interaction Design at the same university. I am also collaborating with [HY-LAB](https://www.hy-lab.design/) under the guidance of Prof. Yue Zou. My work blends AI, computer vision, and interactive systems to create innovative, user-centered solutions. I am passionate about the intersection of technology and art, aiming to enhance human experiences through creative technologies.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -64,6 +64,15 @@ Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, 
 
 
 # 🎨 Art Works {#art-works}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Feltsight](https://dl.acm.org/doi/10.1145/3757369.3767605)
+
+[**ACM**](https://dl.acm.org/doi/10.1145/3757369.3767605)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">art paper</div><img src='images/art_paper.png' alt="art_paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
