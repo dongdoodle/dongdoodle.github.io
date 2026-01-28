@@ -66,12 +66,12 @@ Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, 
 
 
 # 🎨 Art Works {#art-works}
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Feltsight](https://dl.acm.org/doi/10.1145/3757369.3767605)
+[Becoming Mole with "FeltSight": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves](https://dl.acm.org/doi/10.1145/3757369.3767605)
 
-**Authors:** Danlin Huang, Botao Amber Hu, **Dong Zhang**, Yifei Liu, Takatoshi Yoshida, Rem RunGu Lin
+Danlin Huang, Botao Amber Hu, **Dong Zhang**, Yifei Liu, Takatoshi Yoshida, Rem RunGu Lin
 
 [**Paper**](https://dl.acm.org/doi/10.1145/3757369.3767605)
 </div>
