@@ -27,70 +27,9 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 - *2025.12*: “FeltSight” — to be presented at ACM SIGGRAPH Asia 2025 (Hong Kong, Dec 15–18).
 - *2025.11*: “FeltSight” — exhibited at VISAP (Nov 6–15).
 - *2025.10*: “ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training” — published in IROS 2025 (Oct 19–25).
-- *2024.10*: “Sophia-in-Audition: Virtual Production with a Robot Performer” — accepted to ACM MM 2024.
-- *2024.09*: “Negative Shanshui” — exhibited at Ars Electronica Festival 2024 (Linz, Austria; theme: “HOPE—who will turn the tide?”).
-- *2023.09*: Ars Electronica Festival 2023 (Linz, Austria; theme: “Who Owns the Truth?”).
-
-# 📝 Publications {#publications}
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 Poster (Conditionally Accepted)</div><img src='images/CHI Poster.png' alt="chi2026" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Meaningful, Contextual, Media: A Three-Axis Design Space for Personal Memory from Co-Design to Probing
-
-**Dong Zhang**, Hanxuan Li, Siying Guo, Yue Zou, Jingyi Yu
-
-*ShanghaiTech University, Tsinghua University*
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training](https://arxiv.org/abs/2504.14477)
-
-**Dong Zhang**, Jingwei Peng, Yuyang Jiao, Jiayuan Gu, Jingyi Yu, Jiahao Chen
-
-[**Paper**](10.1109/IROS60139.2025.11245965)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Becoming Mole with "FeltSight": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves](https://dl.acm.org/doi/10.1145/3757369.3767605)
-
-Danlin Huang, Botao Amber Hu, **Dong Zhang**, Yifei Liu, Takatoshi Yoshida, Rem RunGu Lin
-
-[**Paper**](https://dl.acm.org/doi/10.1145/3757369.3767605)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Best in Show Award, Emerging Technology</div><img src='images/dreamprinting.png' alt="dreamprinting" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887)
-
-Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu
-
-[**Paper**](https://arxiv.org/pdf/2503.00887)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm.png' alt="mm" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sophia-in-Audition: Virtual Production with a Robot Performer](https://dl.acm.org/doi/pdf/10.1145/3664647.3685509)
-
-Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, Jingyi Yu
-
-[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3664647.3685509)
-</div>
-</div>
-
 
 # 🎨 Art Works {#art-works}
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VISAP</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Becoming Mole with "FeltSight": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves](https://dl.acm.org/doi/10.1145/3757369.3767605)
@@ -133,6 +72,63 @@ Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
 **Syncret**
 
 Syncret is a future incense holder authored by an AI system. The system studies incense rituals as heritage, then selects two museum artifacts and synthesizes a single form. A transparent cube frames the object so each face alternately reads as intact identity or hybrid reading. By reformatting ritual continuity into shifting legibility, Syncret asks what persists and what disappears when AI redesigns culture.
+</div>
+</div>
+
+# 📝 Publications {#publications}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 Poster (Conditionally Accepted)</div><img src='images/CHI Poster.png' alt="chi2026" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Meaningful, Contextual, Media: A Three-Axis Design Space for Personal Memory from Co-Design to Probing
+
+**Dong Zhang**, Hanxuan Li, Siying Guo, Yue Zou, Jingyi Yu
+
+*ShanghaiTech University, Tsinghua University*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Becoming Mole with "FeltSight": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves](https://dl.acm.org/doi/10.1145/3757369.3767605)
+
+Danlin Huang, Botao Amber Hu, **Dong Zhang**, Yifei Liu, Takatoshi Yoshida, Rem RunGu Lin
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3757369.3767605)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training](https://arxiv.org/abs/2504.14477)
+
+**Dong Zhang**, Jingwei Peng, Yuyang Jiao, Jiayuan Gu, Jingyi Yu, Jiahao Chen
+
+[**Paper**](10.1109/IROS60139.2025.11245965)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Best in Show Award, Emerging Technology</div><img src='images/dreamprinting.png' alt="dreamprinting" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing](https://arxiv.org/pdf/2503.00887)
+
+Youjia Wang, Ruixiang Cao, Teng Xu, Yifei Liu, **Dong Zhang**, Yiwen Wu, Jingyi Yu
+
+[**Paper**](https://arxiv.org/pdf/2503.00887)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm.png' alt="mm" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sophia-in-Audition: Virtual Production with a Robot Performer](https://dl.acm.org/doi/pdf/10.1145/3664647.3685509)
+
+Taotao Zhou, Teng Xu, **Dong Zhang**, Yuyang Jiao, Peijun Xu, Yaoyu He, Lan Xu, Jingyi Yu
+
+[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3664647.3685509)
 </div>
 </div>
 
