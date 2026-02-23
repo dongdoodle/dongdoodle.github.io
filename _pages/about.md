@@ -139,6 +139,3 @@ Syncret is a future incense holder authored by an AI system. The system studies 
 # 📖 Educations {#educations}
 - *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by [Prof. Jingyi Yu](https://www.yu-jingyi.com/)
 - *2021.09 – 2025.07*, Bachelor of Science in Computer Science with a minor in Interaction Design at ShanghaiTech University
-
-# 💻 Internships {#internships}
-- *2022.09 - now*, Researcher & Product Manager, LumiAni Technology Co., Ltd, China.
