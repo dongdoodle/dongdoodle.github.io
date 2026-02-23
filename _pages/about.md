@@ -23,13 +23,26 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 
 
 # 🔥 News {#news}
-- *2025.12*: “Feltsight” — to be presented at ACM SIGGRAPH Asia 2025 (Hong Kong, Dec 15–18).
+- *2026.02*: “Meaningful, Contextual, Media: A Three-Axis Design Space for Personal Memory from Co-Design to Probing” — conditionally accepted to CHI 2026 (Poster).
+- *2025.12*: “FeltSight” — to be presented at ACM SIGGRAPH Asia 2025 (Hong Kong, Dec 15–18).
+- *2025.11*: “FeltSight” — exhibited at VISAP (Nov 6–15).
 - *2025.10*: “ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training” — published in IROS 2025 (Oct 19–25).
-- *2024.09*: “Negative Shanshui” — exhibited at Ars Electronica Festival 2024 (Linz, Austria; theme: “HOPE—who will turn the tide?”).
 - *2024.10*: “Sophia-in-Audition: Virtual Production with a Robot Performer” — accepted to ACM MM 2024.
+- *2024.09*: “Negative Shanshui” — exhibited at Ars Electronica Festival 2024 (Linz, Austria; theme: “HOPE—who will turn the tide?”).
 - *2023.09*: Ars Electronica Festival 2023 (Linz, Austria; theme: “Who Owns the Truth?”).
 
 # 📝 Publications {#publications}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 Poster (Conditionally Accepted)</div><img src='images/CHI Poster.png' alt="chi2026" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Meaningful, Contextual, Media: A Three-Axis Design Space for Personal Memory from Co-Design to Probing
+
+**Dong Zhang**, Hanxuan Li, Siying Guo, Yue Zou, Jingyi Yu
+
+*ShanghaiTech University, Tsinghua University*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/exface.jpg' alt="exface" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +52,17 @@ I am a Master's student at ShanghaiTech University, majoring in Computer Science
 **Dong Zhang**, Jingwei Peng, Yuyang Jiao, Jiayuan Gu, Jingyi Yu, Jiahao Chen
 
 [**Paper**](10.1109/IROS60139.2025.11245965)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/feltsight.jpg' alt="feltsight" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Becoming Mole with "FeltSight": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves](https://dl.acm.org/doi/10.1145/3757369.3767605)
+
+Danlin Huang, Botao Amber Hu, **Dong Zhang**, Yifei Liu, Takatoshi Yoshida, Rem RunGu Lin
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3757369.3767605)
 </div>
 </div>
 
@@ -100,6 +124,17 @@ Aven Le Zhou, **Dong Zhang**, DIV Lab – ShanghaiTech University
 
 
 - *2023.09* Curatorial Assistant at Ars Electronica Festival 2023, focusing on XR projects exhibition, Linz, Austria
+
+# 🎯 Design {#design}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-Authored Future Ritual Objects</div><img src='images/syncret.JPG' alt="syncret" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Syncret**
+
+Syncret is a future incense holder authored by an AI system. The system studies incense rituals as heritage, then selects two museum artifacts and synthesizes a single form. A transparent cube frames the object so each face alternately reads as intact identity or hybrid reading. By reformatting ritual continuity into shifting legibility, Syncret asks what persists and what disappears when AI redesigns culture.
+</div>
+</div>
 
 # 📖 Educations {#educations}
 - *2025.09 - 2028 (expected)*, Master of Science in Computer Science at ShanghaiTech University, supervised by [Prof. Jingyi Yu](https://www.yu-jingyi.com/)
